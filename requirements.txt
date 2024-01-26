@@ -6,3 +6,10 @@ requests==2.24.0
 Pillow==8.4.0
 protobuf~=3.19.0
 watchdog==2.1.8
+finance-datareader
+beautifulsoup4
+plotly
+matplotlib
+tensorflow
+scikit-learn
+prophet
